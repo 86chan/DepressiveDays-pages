@@ -1,7 +1,7 @@
 baseURL: https://86chan.github.io/DepressiveDays-pages/
 languageCode: ja-jp
 defaultContentLanguage: ja
-title: 変わり映えのない日常で
+# title: 変わり映えのない日常で
 theme: cupper-hugo-theme
 canonifyurls: true
 publishDir: ../docs
@@ -19,7 +19,7 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
+  description: 変わり映えのない日常で
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
@@ -31,7 +31,7 @@ params:
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  # navTitleText: Cupper Theme
+  # navTitleText: 変わり映えのない日常で
   logoAlt: An alternative text description of the logo
   customCss:
     - css/custom_01.css
