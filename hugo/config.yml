@@ -1,8 +1,10 @@
-baseURL: http://example.org/
+baseURL: https://86chan.github.io/DepressiveDays-pages/
 languageCode: en-us
 defaultContentLanguage: en
-title: My New Hugo Site
+title: 変わり映えのない日常に
 theme: cupper-hugo-theme
+canonifyurls: true
+publishDir: ../docs
 googleAnalytics:
 disqusShortname:
 enableGitInfo: true
