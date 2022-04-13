@@ -16,7 +16,7 @@ permalinks:
   post: /:filename/
 
 imaging:
-  quality: 99
+  quality: 100
 
 params:
   description: 変わり映えのない日常で
